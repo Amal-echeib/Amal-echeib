@@ -3,7 +3,7 @@
 
 ---
 
-# 👋 Hi, I'm Amel Echeib!
+# 👋 Hi, I'm Amal Echeib!
 
 ### 🚀 Third-year Computer Engineering Student at FST Tunisia  
 + Currently pursuing my studies in **Computer Engineering**, focusing on **Internet of Things (IoT)**  
