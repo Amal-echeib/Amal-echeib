@@ -24,7 +24,7 @@
 ### 📫 Get in Touch  
 - LinkedIn: [www.linkedin.com/in/amal-echeib-7b671b312](#)  
 - Email: [amalecheib2003@gmail.com](#)  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amal-echeib&show_icons=true&theme=radical)
 ---
 
 You can replace placeholders like LinkedIn and Email with your actual contact details. Let me know if you'd like any changes or additional sections!
